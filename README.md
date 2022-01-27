@@ -1,8 +1,7 @@
 # PyCitySchools_Challenge
 
 ## Overview of the school district analysis
-
-    We have data from the school district with students' names, their math scores, reading scores, which schools they go to and, which district those schools are in, and etc. 
+We have data from the school district with students' names, their math scores, reading scores, which schools they go to and, which district those schools are in, and etc. 
 It's much of information and we are tring to clean up some of the areas in the data and figure out what the data is telling us; 
 how different the math and reading scores are by school, how much money the schools are spending, how that is related to the students' scores and, 
 which grade is doing better for each school. 
