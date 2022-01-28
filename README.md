@@ -48,12 +48,14 @@ Their overall passing percentage was 65.1% which was really low and it went up t
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
+Before we replaced the ninth-grade scores to NaN, the average Math score from 9th graders was 83.6 and the average reading score was 83.7.
+But now we see NaN for the ninth graders for Thomas High School as you can see in the data frames below, after replacing.
 ![math_scores_by_grade](./Resources/math_scores_by_grade.png)
 ![reading_scores_by_grade](./Resources/reading_scores_by_grade.png)
 
-By replacing 9th-grade scores to 10th-12th-grade scores, the math and reading scores by grade went down. 
 
 ### Scores by school spending
+
 ![scores_by_school_spending](./Resources/scores_by_school_spending.png)
 
 ### Scores by school size
