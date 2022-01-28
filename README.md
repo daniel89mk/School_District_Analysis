@@ -55,11 +55,17 @@ But now we see NaN for the ninth graders for Thomas High School as you can see i
 
 
 ### Scores by school spending
-
+Thomas High School falls in the $630-$644 per student spending range, but there was not much of change in the scores. 
+As you can see below, if we really want to see the difference, we need to look at the hundreths place of the decimals.
+![scores_by_school_spending_original](./Resources/scores_by_school_spending_original.png)
 ![scores_by_school_spending](./Resources/scores_by_school_spending.png)
 
 ### Scores by school size
+Thomas High School falls in Medium (1000-2000) range, and you cannot really tell the change from the original. 
+![scores_by_school_size_original](./Resources/scores_by_school_size_original.png)
 ![scores_by_school_size](./Resources/scores_by_school_size.png)
 
 ### Scores by school type
+Thomas High School is in Charter school type and like the previous comparisons, we cannot see the nominal changes in scores. 
+![scores_by_school_type_original](./Resources/scores_by_school_type_original.png)
 ![scores_by_school_type](./Resources/scores_by_school_type.png)
