@@ -54,7 +54,7 @@ Their overall passing percentage was 65.1% which was really low and it went up t
 By replacing 9th-grade scores to 10th-12th-grade scores, the math and reading scores by grade went down. 
 
 #### Scores by school spending
-![scores_by_school_spending](./scores_by_school_spending.png)
+![scores_by_school_spending](./Resources/scores_by_school_spending.png)
 
 #### Scores by school size
 ![scores_by_school_size](./Resources/scores_by_school_size.png)
