@@ -33,6 +33,7 @@ It shows that cleaning the 9th graders that had no grades did not affect the dis
 As you can see the screenshot above, the original per school summary data frame, passing math percentage was 66.9%, passing reading percentage was 69.7%, and
 the overall passing percentage was 65.1%. (The original school summary had all graders including 9th graders that had no grades.)
 
+Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 ![per_school_summary_df_changed](./Resources/per_school_summary_df_changed.png)
 We replaced the Thomas High School graders' numbers to only 10th to 12th graders at Thomas High School. 
 So, the new grader group which became our numerator in the percentage calculation and our passing math, reading, and overall percentages went up! 
@@ -69,3 +70,12 @@ Thomas High School falls in Medium (1000-2000) range, and you cannot really tell
 Thomas High School is in Charter school type and like the previous comparisons, we cannot see the nominal changes in scores. 
 ![scores_by_school_type_original](./Resources/scores_by_school_type_original.png)
 ![scores_by_school_type](./Resources/scores_by_school_type.png)
+
+# Summary: 
+## Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. The overall passing percentage was dramaticallly changed from 65% to 90%.
+2. Thomas High School's performance was dramatically changed from the top 3 bottom to the top 2!
+3. Data that we have now will show NaN for the 9th graders' scores at Thomas High School.
+4. Replacing the 9th-grade scores had very little impact on the scores by grade data,  the scores by school spending data, the scores by school size data, 
+   and scores by school type data.
+5. In addition to the dramatic change in the overall passing percentages, we can see some changes in the average scores.
