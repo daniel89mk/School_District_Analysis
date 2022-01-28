@@ -18,10 +18,15 @@ and the Overall Passing Percentage was 65.2%.
 What we have changed here was the student count: The original district summary data frame was with the total number of students, but here we subtracted the number of students 
 that are in ninth grade at Thomas High School from the total student count to get the new total student count. 
 So, the new total student (without 9th graders' scores) count was reflected into our passing math, reading, and overall percentages. 
+The percentages all went down, but not by much.
 
 % of Passing Math: 75.0% -> 74.8%  //
 % of Passing Reading: 85.8% -> 85.7%  //
 % of Passing Overall: 65.2% -> 64.9%
+
+The district summary data numbers without 9th graders affected our original data by going down, which shows that the passing students from the 9th graders 
+at Thomas high school was actually helping the other schools' passing percentages, so the whole district percentages were higher but after replacing the ninth graders'
+the percentages went down.
 
 ### How is the school summary affected?
 
@@ -41,15 +46,13 @@ As you can see, the percentages all went up by a lot for all categories which te
 on Math, Reading, and overall! 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The percentages all went down, but not by much. The district summary data numbers without 9th graders affected our original data by going down, 
-which shows that the passing students from the 9th graders at Thomas high school actually was helping the other schools' passing percentages. 
-
+To answer this, you need to look at the district summary data frames. 
 
 
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
-
+By replacing 9th-grade scores to 10th-12th-grade scores, the math and reading scores by grade went down. 
 
 #### Scores by school spending
 
