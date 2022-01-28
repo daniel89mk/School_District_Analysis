@@ -15,18 +15,21 @@ As you can see the screenshot above which is the original district summary data 
 and the Overall Passing Percentage is 65.2%. 
 
 ![district_summary_df_changed](district_summary_df_changed.png)
-When you look at this screenshot above which is the updated district summary data frame, the percentages look different than the percentages from the original district summary.
+What we have changed here was the student count: The original district summary data was with the total number of students, but here we subtracted the number of students 
+that are in ninth grade at Thomas High School from the total student count to get the new total student count. 
+So, the new total student count was reflected into our passing math, reading, and overall percentages. 
 
 % of Passing Math: 75.0% -> 74.8%
 % of Passing Reading: 85.8% -> 85.7%
 % of Passing Overall: 65.2% -> 64.9%
 
-The percentages all went down, but not by much. 
+The percentages all went down, but not by much. My conclusion is that the district summary data with the new student count affected our original data by going down, 
+which means that the passing students from the 9th graders at Thomas high school actually was helping the whole district passing percentages. 
 
 
 ### How is the school summary affected?
-![per_school_summary_df_original](per_school_summary_df_original.png)
-
+![per_school_summary_df_original](.\Resources\per_school_summary_df_original.png)
+As you can see the screenshot above, the original per school summary data frame,  
 
 ![per_school_summary_df_changed](per_school_summary_df_changed.png)
 
