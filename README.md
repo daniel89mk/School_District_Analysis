@@ -47,7 +47,7 @@ Their overall passing percentage was 65.1% which was really low and it went up t
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+#### <Math and reading scores by grade>
 ![math_scores_by_grade](./Resources/math_scores_by_grade.png)
 ![reading_scores_by_grade](./Resources/reading_scores_by_grade.png)
 
