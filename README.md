@@ -19,8 +19,8 @@ What we have changed here was the student count: The original district summary d
 that are in ninth grade at Thomas High School from the total student count to get the new total student count. 
 So, the new total student (without 9th graders' scores) count was reflected into our passing math, reading, and overall percentages. 
 
-% of Passing Math: 75.0% -> 74.8%
-% of Passing Reading: 85.8% -> 85.7%
+% of Passing Math: 75.0% -> 74.8%  //
+% of Passing Reading: 85.8% -> 85.7%  //
 % of Passing Overall: 65.2% -> 64.9%
 
 ### How is the school summary affected?
@@ -32,8 +32,8 @@ the overall passing percentage was 65.1%.
 ![per_school_summary_df_changed](./Resources/per_school_summary_df_changed.png)
 We changed the graders to only 10th to 12th graders at Thomas High School. 
 So, the new grader group was reflected into our passing math, reading, and overall percentages. 
-% of Passing Math: 66.9% -> 93.2%
-% of Passing Reading: 69.7% -> 97.0%
+% of Passing Math: 66.9% -> 93.2%  //
+% of Passing Reading: 69.7% -> 97.0%  //
 % of Passing Overall: 65.1% -> 90.6%
 
 As you can see, the percentages all went up by a lot for all categories which tells us that the from 10th to 12th graders at Thomas High School did very well
