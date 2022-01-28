@@ -28,7 +28,7 @@ which means that the passing students from the 9th graders at Thomas high school
 
 
 ### How is the school summary affected?
-![per_school_summary_df_original](.\Resources\per_school_summary_df_original.png)
+![per_school_summary_df_original](Resources\per_school_summary_df_original.png)
 As you can see the screenshot above, the original per school summary data frame,  
 
 ![per_school_summary_df_changed](per_school_summary_df_changed.png)
