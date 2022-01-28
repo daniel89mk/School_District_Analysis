@@ -8,7 +8,7 @@ which grade is doing better for each school.
 
 # Results
 
-### How is the district summary affected?
+## How is the district summary affected?
 
 ![district_summary_original](./Resources/district_summary_df_original.png)
 The original data was after we replaced the 9th grade reading and math scores at Thomas High School with NaN.
@@ -27,7 +27,7 @@ The percentages all went down, but not by much.
 
 It shows that cleaning the 9th graders that had no grades did not affect the district summary much, but by removing them, the percentages went down.
 
-### How is the school summary affected?
+## How is the school summary affected?
 
 ![per_school_summary_df_original](./Resources/per_school_summary_df_original.png)
 As you can see the screenshot above, the original per school summary data frame, passing math percentage was 66.9%, passing reading percentage was 69.7%, and
@@ -41,23 +41,23 @@ So, the new grader group which became our numerator in the percentage calculatio
 % of Passing Reading: 69.7% -> 97.0%  //
 % of Passing Overall: 65.1% -> 90.6%
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' math and reading scores definitely affected Thomas High School's performance by a lot.
 Their overall passing percentage was 65.1% which was really low and it went up to 90.6%, then they got into the top 5 schools. 
 
-### How does replacing the ninth-grade scores affect the following:
+## How does replacing the ninth-grade scores affect the following:
 
-#### <Math and reading scores by grade>
+### Math and reading scores by grade
 ![math_scores_by_grade](./Resources/math_scores_by_grade.png)
 ![reading_scores_by_grade](./Resources/reading_scores_by_grade.png)
 
 By replacing 9th-grade scores to 10th-12th-grade scores, the math and reading scores by grade went down. 
 
-#### Scores by school spending
+### Scores by school spending
 ![scores_by_school_spending](./Resources/scores_by_school_spending.png)
 
-#### Scores by school size
+### Scores by school size
 ![scores_by_school_size](./Resources/scores_by_school_size.png)
 
-#### Scores by school type
+### Scores by school type
 ![scores_by_school_type](./Resources/scores_by_school_type.png)
