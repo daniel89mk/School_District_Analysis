@@ -32,6 +32,7 @@ the overall passing percentage was 65.1%.
 ![per_school_summary_df_changed](./Resources/per_school_summary_df_changed.png)
 We changed the graders to only 10th to 12th graders at Thomas High School. 
 So, the new grader group was reflected into our passing math, reading, and overall percentages. 
+
 % of Passing Math: 66.9% -> 93.2%  //
 % of Passing Reading: 69.7% -> 97.0%  //
 % of Passing Overall: 65.1% -> 90.6%
